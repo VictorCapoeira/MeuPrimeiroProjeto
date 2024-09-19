@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Alunos\\OneDrive\\Documentos\\Nada_Oculto_permance\\09-2024\\19-09-2024\\PedraPapelTesoura\\PedraPapelTesoura.csproj": {}
+    "C:\\Users\\Alunos\\OneDrive\\Documentos\\Nada_Oculto_permance\\09-2024\\19-09-2024\\MeuPrimeiroProjeto\\PedraPapelTesoura\\PedraPapelTesoura.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Alunos\\OneDrive\\Documentos\\Nada_Oculto_permance\\09-2024\\19-09-2024\\PedraPapelTesoura\\PedraPapelTesoura.csproj": {
+    "C:\\Users\\Alunos\\OneDrive\\Documentos\\Nada_Oculto_permance\\09-2024\\19-09-2024\\MeuPrimeiroProjeto\\PedraPapelTesoura\\PedraPapelTesoura.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Alunos\\OneDrive\\Documentos\\Nada_Oculto_permance\\09-2024\\19-09-2024\\PedraPapelTesoura\\PedraPapelTesoura.csproj",
+        "projectUniqueName": "C:\\Users\\Alunos\\OneDrive\\Documentos\\Nada_Oculto_permance\\09-2024\\19-09-2024\\MeuPrimeiroProjeto\\PedraPapelTesoura\\PedraPapelTesoura.csproj",
         "projectName": "PedraPapelTesoura",
-        "projectPath": "C:\\Users\\Alunos\\OneDrive\\Documentos\\Nada_Oculto_permance\\09-2024\\19-09-2024\\PedraPapelTesoura\\PedraPapelTesoura.csproj",
+        "projectPath": "C:\\Users\\Alunos\\OneDrive\\Documentos\\Nada_Oculto_permance\\09-2024\\19-09-2024\\MeuPrimeiroProjeto\\PedraPapelTesoura\\PedraPapelTesoura.csproj",
         "packagesPath": "C:\\Users\\Alunos\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Alunos\\OneDrive\\Documentos\\Nada_Oculto_permance\\09-2024\\19-09-2024\\PedraPapelTesoura\\obj\\",
+        "outputPath": "C:\\Users\\Alunos\\OneDrive\\Documentos\\Nada_Oculto_permance\\09-2024\\19-09-2024\\MeuPrimeiroProjeto\\PedraPapelTesoura\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Alunos\\AppData\\Roaming\\NuGet\\NuGet.Config"
