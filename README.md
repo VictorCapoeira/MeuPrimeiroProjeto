@@ -1,7 +1,12 @@
 # MeuPrimeiroProjeto
 **Jogo de PEDRA-PAPEL-TESOURA**
 
-![image](https://github.com/user-attachments/assets/10a0ed96-4d20-404c-ba41-5095cebc8974)
+![image](https://github.com/user-attachments/assets/aaa1bc62-ffd2-4516-aad2-9e4705c28dac)
+
+![image](https://github.com/user-attachments/assets/d0608f58-f66a-45a4-80f3-0b85495f17a6)
+
+![image](https://github.com/user-attachments/assets/76c32f62-de45-4258-8fb8-8bbdce811feb)
+
 
 
 O projeto é um simples jogo de pedra, papel e tesoura, aonde o objetivo é o jogador derrotar a máquina. O jogador deve inserir "pedra, papel ou tesoura" até derrotar a máquina! Ao fim, a quantidade de tentativas será exibida. BOA SORTE!
